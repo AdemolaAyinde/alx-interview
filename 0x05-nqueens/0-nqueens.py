@@ -2,7 +2,6 @@
 """ N QUEENS ALGORITHM WITH BACKTRACKING (RECURSION INSIDE LOOP) """
 import sys
 
-
 class NQueen:
     """ Class for solving N Queen Problem """
 
